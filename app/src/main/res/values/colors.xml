@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFE500</color>
+    <color name="primary">#0012AF</color>
+
+    <color name="colorPrimary">#9C27B0</color> <!-- Toasted Orange: still vibrant, slightly softer -->
+    <color name="colorPrimaryDark">#7B1FA2</color> <!-- Rich Deep Orange: bold, warm -->
+    <color name="colorAccent">#00BCD4</color> <!-- Golden Glow: bright but easier on eyes -->
+    <color name="buttonColor">#00BCD4</color> <!-- Refresh Mint Green: playful + smooth -->
+    <color name="textPrimary">#000000</color>
+    <color name="backgroundColor">#FFF9F4</color> <!-- Soft Cream -->
+    <color name="cardBackground">#FFFFFF</color>
+
+
+
+</resources>
